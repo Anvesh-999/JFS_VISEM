@@ -18,7 +18,7 @@ function showDetails() {
         "stroustrup": "images/stroustrup.jpg",
         "juergen": "images/juergen.jpg",
         "krishna": "images/krishna.jpg",
-
+        "Anvesh":"images/Anvesh.jpg",
         "bill_gates": "images/bill_gates.jpg",
         "steve_jobs": "images/steve_jobs.jpg",
         "elon_musk": "images/elon_musk.jpg",
@@ -39,6 +39,7 @@ function showDetails() {
         "stroustrup": "Bjarne Stroustrup created C++.",
         "juergen": "Juergen Hoeller is the co-creator of Spring Framework.",
         "krishna": "E Krishna Rao Patro — JFS Trainer.",
+        "Anvesh":"Anvesh Anumolu — MERN STACK Learner.",
         "madhu": "B. Madhusudhan Rao — JFS Trainer.",
         "bill_gates": "Bill Gates co-founded Microsoft.",
         "steve_jobs": "Steve Jobs co-founded Apple.",
